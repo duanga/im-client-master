@@ -9,7 +9,7 @@
 ```xml
 <dependency>
 	<groupId>net.bingosoft.oss</groupId>
-	<artifactId>sso-client</artifactId>
+	<artifactId>im-client</artifactId>
 	<version>[1.0.0,]</version>
 </dependency>
 ```
